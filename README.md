@@ -41,7 +41,16 @@
 
 
 <br>   
-    
+
+
+- **Frameworks**:
+
+    ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4.svg?style=for-the-badge&logo=asp.net&logoColor=white)
+    ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
+    ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-6DB33F.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+    ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  	
+  <br>   
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
